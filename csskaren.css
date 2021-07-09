@@ -1,6 +1,6 @@
 body{ 
 		background-image:url(image.jpeg);
-	    background-size: cover; 
+	    background-size: initial; 
 		height: 200px;	
 	}
 h1{text-align: center;}
