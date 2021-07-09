@@ -1,0 +1,21 @@
+body{ 
+		background-image:url(image.jpeg);
+	    background-size: cover; 
+		height: 500px;	
+	}
+h1{text-align: left;}
+table, th, td {
+	border: 1px solid black;
+	border-collapse; }
+table{background-color: 
+violet
+;}
+th, td {
+	padding: 7px;
+	text-align: left; }  
+h4{text-align: justify;}
+img{width:30%}
+table{width:70%}
+p{text-align: justify; }
+h5{color: black;}
+h3{text-align: center;}
