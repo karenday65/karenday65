@@ -1,7 +1,7 @@
 body{ 
 		background-image:url(image.jpeg);
 	    background-size: cover; 
-		height: 500px;	
+		height: 200px;	
 	}
 h1{text-align: center;}
 table, th, td {
@@ -12,9 +12,9 @@ violet
 ;}
 th, td {
 	padding: 7px;
-	text-align: left; }  
+	text-align: center; }  
 h4{text-align: justify;}
-img{width:30%}
+img{width:20%}
 table{width:70%}
 p{text-align: justify; }
 h5{color: black;}
